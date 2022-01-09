@@ -30,7 +30,7 @@
 * Remove an answer.
 * Change correct_answer.
 * Remove an  question.
-## User Interviews.
+## User Interviews / Brainstorming.
 1. User has a lot of questions in different topics need to handle theme in a quiz he can take it.
 2. Use can make a quiz about specific topic & then make its questions.
 3. quiz of topic should has topic, description, references' links, and parameters.
