@@ -5,6 +5,8 @@
 1. Root/Main.
 2. Quiz.
 3. Question.
+4. Answer.
+5. Search.
 ## Features.
 * Create a new quiz.
 * Define quiz title.
